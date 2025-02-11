@@ -1,2 +1,1 @@
-# 404
-My 404 website.
+# 404 by lingyicute
