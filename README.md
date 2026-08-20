@@ -1,6 +1,10 @@
 # lingyicute's 404 Page
 
-![image]([https://raw.githubusercontent.com/lingyicute/Nebulove/main/nebulove.jpg](https://lingyicute.github.io/404/404.png))
+![image](https://lingyicute.github.io/404/404.png)
+
+## Take a quick look？
+
+[GitHub Page](https://lingyicute.github.io/404)
 
 ## 🗂️ License
 
